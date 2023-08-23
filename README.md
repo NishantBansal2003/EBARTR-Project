@@ -3,7 +3,7 @@
 # To Download This Project in Local Host just copy This Command
 
 ```
-git clone https://github.com/Adi-456/project.git
+git clone https://github.com/NishantBansal2003/EBARTR-Project.git
 ```
 
 # To Run This Project in Local Host just copy This Command
